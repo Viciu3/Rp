@@ -1,6 +1,6 @@
 ![Баннер бета версии Shadow inline RP bot](https://github.com/Viciu3/Rp/blob/8b724630c0a0046f6ec2d852e12fb70c462eece5/Banner_rp.png)
 
-<mark style="background-color: yellow;">Добро пожаловать в мой проект!</mark>
+<mark style="background-color: blue;">Добро пожаловать в мой проект!</mark>
 
 Добро пожаловать в бета-версию Shadow inline rp bot - этот бот представляет собой РП команды в чатах для удобства, используется инлайн-режим.
 
